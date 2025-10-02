@@ -18,6 +18,10 @@ A beautiful, easy-to-use operating system for LoRa mesh radios. Send messages, s
 - ⌨️ **Easy Typing** - Built-in keyboard on your device
 - 🔋 **Long Battery Life** - Runs for days on a single charge
 
+## 📥 Download
+
+Get the latest firmware from our [releases page](https://github.com/csrutil/whisper-dev/releases).
+
 ## 📱 Supported Devices
 
 | Device | Notes |
