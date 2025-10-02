@@ -28,6 +28,13 @@ A beautiful, easy-to-use operating system for LoRa mesh radios. Send messages, s
 | Wio Tracker L1 | Full support |
 | MeshTiny | Full support |
 
+## The Fine Print 📝
+
+- **Testing firmware only**: These builds are for testing and experimentation. Please test thoroughly before relying on them in critical situations
+- **Backup your data**: Always backup your device configuration and data before installing
+- **No warranty**: Provided as-is without guarantees. We recommend testing in your specific environment
+- **Use responsibly**: Please ensure your use complies with local regulations. Users are responsible for their own compliance
+
 ## 🌐 Powered by MeshCore
 
 [Learn more about MeshCore](https://github.com/meshcore-dev/MeshCore)
