@@ -30,4 +30,4 @@ A beautiful, easy-to-use operating system for LoRa mesh radios. Send messages, s
 
 ## 🌐 Powered by MeshCore
 
-[Learn more about MeshCore](https://github.com/ripplebiz/MeshCore)
+[Learn more about MeshCore](https://github.com/meshcore-dev/MeshCore)
