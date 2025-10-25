@@ -32,6 +32,10 @@ Get the latest firmware from our [releases page](https://github.com/csrutil/whis
 | Wio Tracker L1 | Full support |
 | MeshTiny | Full support |
 
+## Get latest updates
+
+https://t.me/whisper_dev
+
 ## The Fine Print 📝
 
 - **Testing firmware only**: These builds are for testing and experimentation. Please test thoroughly before relying on them in critical situations
