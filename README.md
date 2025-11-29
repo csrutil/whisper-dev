@@ -8,14 +8,12 @@
 
 WhisperOS is a LoRa mesh firmware built on **MeshCore**. By leveraging this foundation, WhisperOS inherits all MeshCore features while providing an advanced, user-friendly interface on top of the decentralized mesh network.
 
----
 
 ## Core Functionality
 
 * **MeshCore Integration:** WhisperOS supports everything MeshCore supports—full compatibility included.
 * **LoRa Mesh Networking:** Enables robust, decentralized communication across long distances.
 
----
 
 ## User Interface & Display
 
@@ -26,7 +24,6 @@ WhisperOS is a LoRa mesh firmware built on **MeshCore**. By leveraging this foun
 * **GPS Page:** When a GPS module is available, shows latitude, longitude, altitude, and speed.
 * **System Page:** Access all device settings and customization options.
 
----
 
 ## Messaging Capabilities
 
@@ -35,7 +32,6 @@ WhisperOS is a LoRa mesh firmware built on **MeshCore**. By leveraging this foun
 * **Free Text Messaging:** Supported on devices with a joystick or equivalent input.
 * **Multi-Language Support:** Includes Chinese, Korean, Japanese, Russian, and more.
 
----
 
 ## Device Interaction & Tools
 
@@ -43,7 +39,6 @@ WhisperOS is a LoRa mesh firmware built on **MeshCore**. By leveraging this foun
 * **Device Info Broadcast:** Option in the RF page to share your device info with all nodes.
 * **Controls:** Navigate using buttons, long-press actions, and joysticks (where applicable).
 
----
 
 ## System Settings & Customization
 
@@ -55,13 +50,10 @@ WhisperOS is a LoRa mesh firmware built on **MeshCore**. By leveraging this foun
 * **Time Zone Setting:** Set your local time zone directly from the system menu.
 * **Reboot / Shutdown:** Standard power management options.
 
----
 
 ## 📥 Download
 
 Get the latest firmware at **[https://ssaprus.works](https://ssaprus.works)**.
-
----
 
 ## 📱 Supported Devices
 
@@ -73,13 +65,11 @@ Get the latest firmware at **[https://ssaprus.works](https://ssaprus.works)**.
 | Wio Tracker L1       | Full support |
 | MeshTiny             | Full support |
 
----
 
 ## 🔔 Get Updates
 
 Join the development channel: **[https://t.me/whisper_dev](https://t.me/whisper_dev)**
 
----
 
 ## The Fine Print 📝
 
@@ -88,7 +78,6 @@ Join the development channel: **[https://t.me/whisper_dev](https://t.me/whisper_
 * **No warranty:** Provided as-is with no guarantees. Test in your intended environment.
 * **Use responsibly:** Ensure compliance with local radio regulations. You are responsible for lawful use.
 
----
 
 ## 🌐 Powered by MeshCore
 
