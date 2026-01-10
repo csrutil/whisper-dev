@@ -1,55 +1,44 @@
-<div align="center">
-  <img src="assets/whisper.png" alt="Whisper">
-</div>
+![ssaprus_small_logo](assets/ssaprus_logo.jpg)
 
 # WhisperOS
 
-> Off-grid messaging for everyone. No internet, no cell towers, no limits.
+**WhisperOS** is a user-friendly operating system designed for small, portable radio devices (like Heltec LoRa boards) that allow you to communicate without the internet or cellular networks. It creates a "mesh" network where devices talk directly to each other.
 
-WhisperOS is a LoRa mesh firmware built on **MeshCore**. By leveraging this foundation, WhisperOS inherits all MeshCore features while providing an advanced, user-friendly interface on top of the decentralized mesh network.
+Think of it like a walkie-talkie for text messages that can also hop through other people's devices to reach further.
 
+## Key Features for You
 
-## Core Functionality
+### 1. **Off-Grid Messaging**
+   - **Text Anyone**: Send and receive text messages to other users on the network.
+   - **Privacy**: Your messages stay on the local mesh network, not on the internet.
+   - **Contacts List**: See who else is nearby or on the network. It shows you when they were "last seen" (e.g., "5m ago"), so you know if they are available.
+   - **Smart Typing**: Includes a virtual keyboard on the device itself with predictive text (both English and Chinese support) to make typing easier on small screens.
 
-* **MeshCore Integration:** WhisperOS supports everything MeshCore supports—full compatibility included.
-* **LoRa Mesh Networking:** Enables robust, decentralized communication across long distances.
+### 2. **Simple Dashboard (Home Screen)**
+   - **At a Glance**: Quickly check your unread messages, battery life, and connection status (Bluetooth).
+   - **Uptime**: See how long your device has been running.
 
+### 3. **Customize Your Experience**
+   - **Notifications**: Choose how you want to be alerted—Beep (Buzzer), Flash (LED), or Vibrate. You can turn them all off for a "Do Not Disturb" mode.
+   - **Display Settings**: Adjust brightness or set "Always On" watch faces (like a binary clock or cute animal faces) if you want your device to double as a desk clock.
+   - **Night Mode**: Easily dim the screen or turn it off to save battery.
 
-## User Interface & Display
+### 4. **Power Management**
+   - **Battery Info**: Detailed battery voltage monitoring to help you manage power during long trips.
+   - **Auto-Sleep**: The device is smart about saving power when you aren't using it.
+   - **Long Lasting**: For Heltec V3 & V4, it could last 5 days.
 
-* **Home Screen:** Shows key information at a glance—status bar, battery percentage, user log name, current time (with time-zone settings), received message count, BLE pairing pin, frequency, spreading factor (SF), and device uptime.
-* **Messages Screen:** Lists all received messages; long-pressing a message opens the next one.
-* **Nodes Page:** Displays all visible nodes (companions or repeaters) in the network.
-* **RF Page:** Provides detailed RF data with a clean bar-graph visualization.
-* **GPS Page:** When a GPS module is available, shows latitude, longitude, altitude, and speed.
-* **System Page:** Access all device settings and customization options.
+### 5. **Technical Tools (Simplified)**
+   - **Radio Status**: A specialized screen shows you the signal strength (RSSI) of the last message, with a visual graph (sparkline) to help you find the best spot for reception.
+   - **Connection Options**: Manage Bluetooth (to connect to your phone) and WiFi settings directly.
 
+## Who is this for?
+- **Hikers & Campers**: Communicate in areas with no cell service.
+- **Emergency Preppers**: Reliable backup communication when towers are down.
+- **Tech Enthusiasts**: Fun way to chat and experiment with radio tech.
+- **Groups/Events**: Coordinate with friends at festivals or large events where networks are congested.
 
-## Messaging Capabilities
-
-* **Public & Private Messaging:** Send to a public channel or directly to a specific device.
-* **Preset Quick Messages:** Fast communication through predefined messages.
-* **Free Text Messaging:** Supported on devices with a joystick or equivalent input.
-* **Multi-Language Support:** Includes Chinese, Korean, Japanese, Russian, and more.
-
-
-## Device Interaction & Tools
-
-* **Ping Test:** Check connectivity with any repeater node. If GPS is enabled on both sides, distance and hop count are included.
-* **Device Info Broadcast:** Option in the RF page to share your device info with all nodes.
-* **Controls:** Navigate using buttons, long-press actions, and joysticks (where applicable).
-
-
-## System Settings & Customization
-
-* **Brightness Control:** Adjust display brightness to save power.
-* **Always-On Clock:** When idle, the device can show a minimal clock face with time and date.
-* **Battery Calibration:** Recalibrate the ADC for accurate battery readings (useful for devices without factory-set ADC values). Fully charge, then run calibration from the system menu.
-* **New Message Indicator:** LED lights persistently for unread messages; buzzer/vibrator alerts also supported on compatible devices.
-* **BLE Toggle:** Turn Bluetooth Low Energy on or off as needed.
-* **Time Zone Setting:** Set your local time zone directly from the system menu.
-* **Reboot / Shutdown:** Standard power management options.
-
+In essence, **WhisperOS** turns a simple radio board into a fully functional, standalone communicator that fits in your pocket.
 
 ## 📥 Download
 
@@ -82,3 +71,4 @@ Join the development channel: **[https://t.me/whisper_dev](https://t.me/whisper_
 ## 🌐 Powered by MeshCore
 
 [Learn more about MeshCore](https://github.com/meshcore-dev/MeshCore)
+
