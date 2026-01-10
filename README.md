@@ -12,9 +12,10 @@ Think of it like a walkie-talkie for text messages that can also hop through oth
    - **Text Anyone**: Send and receive text messages to other users on the network.
    - **Privacy**: Your messages stay on the local mesh network, not on the internet.
    - **Contacts List**: See who else is nearby or on the network. It shows you when they were "last seen" (e.g., "5m ago"), so you know if they are available.
-   - **Smart Typing**: Includes a virtual keyboard on the device itself with predictive text (both English and Chinese support) to make typing easier on small screens.
+   - **Smart Typing**: Includes a **virtual keyboard on the device itself** with **predictive text** (English and Chinese input) to make typing easier on small screens.
+   - **Multilingual Display**: Supports **CJK (Chinese, Japanese, Korean)** and many other languages for message display.
 
-### 2. **Simple Dashboard (Home Screen)**
+### 2. **Simple Dashboard**
    - **At a Glance**: Quickly check your unread messages, battery life, and connection status (Bluetooth).
    - **Uptime**: See how long your device has been running.
 
@@ -26,9 +27,9 @@ Think of it like a walkie-talkie for text messages that can also hop through oth
 ### 4. **Power Management**
    - **Battery Info**: Detailed battery voltage monitoring to help you manage power during long trips.
    - **Auto-Sleep**: The device is smart about saving power when you aren't using it.
-   - **Long Lasting**: For Heltec V3 & V4, it could last 5 days.
+   - **Long Lasting**: For Heltec V3 & V4, it could last **5 days**.
 
-### 5. **Technical Tools (Simplified)**
+### 5. **Technical Tools**
    - **Radio Status**: A specialized screen shows you the signal strength (RSSI) of the last message, with a visual graph (sparkline) to help you find the best spot for reception.
    - **Connection Options**: Manage Bluetooth (to connect to your phone) and WiFi settings directly.
 
@@ -57,7 +58,9 @@ Get the latest firmware at **[https://ssaprus.works](https://ssaprus.works)**.
 
 ## 🔔 Get Updates
 
-Join the development channel: **[https://t.me/whisper_dev](https://t.me/whisper_dev)**
+- **Discord**: [https://discord.gg/73jThCU9cw](https://discord.gg/73jThCU9cw)
+- **Telegram**: [https://t.me/whisper_dev](https://t.me/whisper_dev)
+- **YouTube**: [https://www.youtube.com/@tsaokoming](https://www.youtube.com/@tsaokoming)
 
 
 ## The Fine Print 📝
